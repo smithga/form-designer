@@ -1,0 +1,21 @@
+.col{
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+
+.col-wrap{
+    overflow: hidden; 
+}
+
+
+/* following styles for illustration only */
+.col-md-3{
+    background-color:#ffc;
+}
+.col-md-9{
+    background-color:#ccc;
+}
+
+.col-xs-12{
+    background-color:pink;
+}
